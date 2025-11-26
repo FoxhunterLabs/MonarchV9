@@ -1,0 +1,9 @@
+# Core runtime (standard library handles almost everything)
+# These are external packages required
+
+# For type support (Optional)
+typing-extensions==4.12.2
+
+# No ML frameworks, no robotics frameworks,
+# no networking libraries, no hardware bindings.
+
